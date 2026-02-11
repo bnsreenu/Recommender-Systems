@@ -2,6 +2,8 @@
 
 This repository accompanies my YouTube series on **Recommender Systems**, covering concepts and hands-on implementations in Python.
 
+**YouTube Playlist:** [3D Organoid Analysis with Python](https://www.youtube.com/playlist?list=PLZsOBAyNTZwaeoQXRbx3fIN6-eCcatT3p)
+
 The goal of the series is to build intuition first, then implement real systems step-by-step.
 
 ---
